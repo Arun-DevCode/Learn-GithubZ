@@ -1,12 +1,14 @@
-h1 {
-  color: red;
-  font-size: 32px;
+h1{
+  color:black;
 }
-body {
-  background-color: black;
+p{
+  color: blue;
 }
-p {
-  font-size: 12px;
+button{
+  color: green;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 4px;
 }
 
 .Container{
